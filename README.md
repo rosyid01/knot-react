@@ -1,4 +1,4 @@
-### Boilerplate of Golang + Webpack + Reactjs + React Router + LESS
+## Boilerplate of Golang + Webpack + Reactjs + React Router + LESS
 
 yay
 
